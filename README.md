@@ -1,6 +1,14 @@
 # Overview
 Function to plot model statistics for exploratory fit analysis
 
+## Dependencias
+
+```R
+library(ggplot2)
+library(patchwork)
+library(ggpointdensity)
+```
+
 ## Functions
 
 As funçoes presente nessa rotina são descritas abaixo
